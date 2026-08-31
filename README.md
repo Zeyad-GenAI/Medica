@@ -6,7 +6,7 @@
 
 A clean and approachable mobile healthcare experience for discovering health information, managing a patient profile, and keeping essential care journeys organized in one place.
 
-![Medica splash screen](https://private-us-east-1.manuscdn.com/sessionFile/5azXhaBFC7aNd3uFaQQOPS/sandbox/9cMB4KmxrfBf9X11lAKA5i-images_1787674640700_na1fn_L2hvbWUvdWJ1bnR1L21lZGljYS1yZWFkbWUvYXNzZXRzL3NjcmVlbnNob3RzL21lZGljYS1zcGxhc2g.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNWF6WGhhQkZDN2FOZDN1RmFRUU9QUy9zYW5kYm94LzljTUI0S214cmZCZjlYMTFsQUtBNWktaW1hZ2VzXzE3ODc2NzQ2NDA3MDBfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyMWxaR2xqWVMxeVpXRmtiV1V2WVhOelpYUnpMM05qY21WbGJuTm9iM1J6TDIxbFpHbGpZUzF6Y0d4aGMyZy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk0MzA0MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCICtcHWnvzoA365jw1rkSEJdj0XPCkLR1xHsPpFYaOuDBAiEA1WSHXV2PzXIcDTA~xtYwvHZHDVRrhBIWzWwEdpYm7b4_)
+![Medica splash screen](assets/images/medica_app_icon.png)
 
 [![Platform](https://img.shields.io/badge/platform-mobile-1593A5?style=flat-square)](https://github.com/Zeyad-GenAI/Medica)
 [![UI](https://img.shields.io/badge/UI-healthcare-7CC8BE?style=flat-square)](https://github.com/Zeyad-GenAI/Medica)
